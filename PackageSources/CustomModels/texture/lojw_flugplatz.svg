@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="lojw_flugplatz.svg"
+   inkscape:export-filename="lojw_flugplatz.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.72426347"
+     inkscape:cx="396.95499"
+     inkscape:cy="408.0007"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1"><rect
+       x="22.091408"
+       y="176.73127"
+       width="216.77195"
+       height="57.989947"
+       id="rect1" /></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#ffdd55;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect2"
+       width="276.14261"
+       height="270.61975"
+       x="-10.071304"
+       y="-8.2842779"
+       rx="5"
+       ry="5" /><g
+       id="g5"
+       transform="matrix(0.3090497,0,0,0.3090497,49.0514,15.530111)">
+		<path
+   fill="#ed171f"
+   d="M 510.912,255.816 C 510.912,114.912 396.144,0 255.456,0 114.768,0 0,114.912 0,255.816 0,396.576 114.768,511.56 255.456,511.56 c 140.688,0 255.456,-114.984 255.456,-255.744 z"
+   id="path1" />
+		<path
+   fill="#feb82f"
+   d="m 106.632,127.584 320.4,224.28 c 16.56,-29.736 25.056,-62.568 25.056,-95.976 0,-108.648 -87.984,-196.632 -196.632,-196.632 -57.096,0 -111.24,24.696 -148.464,68.04 z"
+   id="path2"
+   style="fill:#ffffff;fill-opacity:1" />
+		<path
+   fill="#feb82f"
+   d="m 83.952,159.696 320.4,224.28 C 285.624,522.072 58.968,438.12 58.968,255.816 c 0,-33.84 8.784,-66.96 25.344,-96.408 z"
+   id="path3"
+   style="fill:#feffff;fill-opacity:1" />
+		<path
+   d="m 190.224,233.784 -15.552,-10.44 c -2.016,1.656 -3.384,4.032 -3.384,6.768 0,5.04 4.104,8.784 8.856,8.784 2.016,0 3.672,-0.36 5.04,-1.368 z"
+   id="path4" />
+		<polygon
+   points="160.704,414.72 118.8,392.04 127.224,384.264 144.864,388.008 226.08,258.84 330.84,332.496 337.968,342 375.912,380.592 354.24,413.712 328.536,413.712 332.568,405.576 342.36,403.2 344.088,396.432 289.944,347.04 257.76,287.856 "
+   id="polygon4" />
+		<path
+   d="m 226.728,211.464 -19.944,-13.824 7.776,-6.408 6.12,-37.584 c 0.36,-3.024 1.368,-5.76 3.024,-8.496 2.016,-2.376 4.392,-4.392 6.768,-6.408 4.752,-3.384 8.784,-6.768 12.816,-10.512 0.648,-0.648 1.008,-1.656 1.008,-3.024 0,-0.36 0,-0.36 0,-0.648 -0.72,-2.088 -2.736,-3.744 -4.68,-3.744 -0.36,0 -0.36,0 -0.648,0 -2.088,0 -4.392,-0.36 -6.12,-1.728 -5.4,-5.688 -7.416,-13.536 -5.4,-21.312 0,-0.648 0,-1.296 0,-2.016 0,-1.008 0,-2.376 -0.36,-3.744 -1.656,-6.696 0.36,-14.184 5.76,-18.576 7.128,-5.04 16.488,-6.12 24.264,-2.736 6.48,1.728 11.52,7.128 12.888,13.896 0.36,2.376 0.648,4.752 0.648,7.128 0,3.024 -0.288,6.048 -1.008,8.784 -1.296,4.032 -2.376,8.136 -3.024,12.528 -0.36,0.36 -0.36,1.008 -0.36,2.016 0,2.736 0.72,5.76 1.728,8.784 1.008,2.376 3.024,4.392 5.76,5.4 4.752,2.376 9.432,4.752 14.184,6.768 3.024,1.368 5.76,3.096 8.136,5.112 2.016,1.656 3.744,4.032 5.04,6.408 l 21.672,39.24 5.4,50.472 -2.304,0.648 0.648,10.8 c 0,0 0,0.36 0,0.72 0,4.752 -3.744,8.784 -8.784,8.784 -4.392,0 -8.136,-3.024 -8.784,-7.416 l -7.488,-49.104 -15.552,-22.968 1.368,40.608 c -0.36,0.288 -0.36,0.648 -0.36,1.008 0,2.016 0.648,3.672 1.368,5.4 4.032,6.408 6.408,13.536 6.408,20.952 0,3.744 -0.648,7.488 -1.656,11.16 l -57.168,-39.888 -1.296,-18.648 -6.768,11.52 z"
+   id="path5" />
+	</g><text
+       xml:space="preserve"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:2"
+       transform="translate(13.720703)"><tspan
+         x="22.091797"
+         y="205.55461"
+         id="tspan2">FLUGPLATZ</tspan></text></g></svg>

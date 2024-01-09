@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{96b9baa0-ee95-40ad-b4a1-e33b32ab2def}" version="1.1">
+	<LODS>
+		<LOD minSize="2" ModelFile="WucherSign_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>
