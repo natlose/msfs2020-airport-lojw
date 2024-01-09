@@ -11,7 +11,6 @@
     "extensionsUsed" : [
         "ASOBO_normal_map_convention",
         "ASOBO_unique_id",
-        "ASOBO_material_day_night_switch",
         "ASOBO_macro_light"
     ],
     "scene" : 0,
@@ -33,7 +32,9 @@
                 11,
                 12,
                 13,
-                14
+                14,
+                15,
+                16
             ]
         }
     ],
@@ -474,6 +475,74 @@
                 5.226973056793213,
                 -0.6503729820251465
             ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "hangar_light.001"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9806956648826599,
+                        1,
+                        0.6937770247459412
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "hangar_light.001",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                6.924971103668213,
+                4.845796585083008,
+                -8.654104232788086
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "office_light.001"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9371925592422485,
+                        1,
+                        0.4588547348976135
+                    ],
+                    "intensity" : 5,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "office_light.001",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                8.400785446166992,
+                4.253358364105225,
+                -26.406558990478516
+            ]
         }
     ],
     "materials" : [
@@ -514,12 +583,6 @@
                 0,
                 0
             ],
-            "emissiveTexture" : {
-                "index" : 1
-            },
-            "extensions" : {
-                "ASOBO_material_day_night_switch" : {}
-            },
             "extras" : {},
             "name" : "lojw_sectional_door",
             "pbrMetallicRoughness" : {
@@ -530,7 +593,7 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 2
+                    "index" : 1
                 }
             }
         },
@@ -618,10 +681,6 @@
         {
             "sampler" : 0,
             "source" : 1
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
         }
     ],
     "images" : [
@@ -629,11 +688,6 @@
             "mimeType" : "image/png",
             "name" : "lojw_office_window.png",
             "uri" : "lojw_office_window.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "hangar_door_emissive.png",
-            "uri" : "hangar_door_emissive.png"
         },
         {
             "mimeType" : "image/png",

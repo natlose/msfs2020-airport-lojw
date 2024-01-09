@@ -11,7 +11,6 @@
     "extensionsUsed" : [
         "ASOBO_normal_map_convention",
         "ASOBO_unique_id",
-        "ASOBO_material_day_night_switch",
         "ASOBO_macro_light",
         "ASOBO_tags"
     ],
@@ -226,7 +225,7 @@
                         1,
                         0.6937770247459412
                     ],
-                    "intensity" : 29.999998092651367,
+                    "intensity" : 10,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -1011,12 +1010,6 @@
                 0,
                 0
             ],
-            "emissiveTexture" : {
-                "index" : 2
-            },
-            "extensions" : {
-                "ASOBO_material_day_night_switch" : {}
-            },
             "extras" : {},
             "name" : "lojw_sectional_door",
             "pbrMetallicRoughness" : {
@@ -1027,7 +1020,7 @@
                     1
                 ],
                 "baseColorTexture" : {
-                    "index" : 3
+                    "index" : 2
                 }
             }
         },
@@ -1130,7 +1123,10 @@
                     0.6695531606674194,
                     0.18179894983768463,
                     1
-                ]
+                ],
+                "baseColorTexture" : {
+                    "index" : 3
+                }
             }
         }
     ],
@@ -1517,13 +1513,13 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "hangar_door_emissive.png",
-            "uri" : "hangar_door_emissive.png"
+            "name" : "hangar_door.png",
+            "uri" : "hangar_door.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "hangar_door.png",
-            "uri" : "hangar_door.png"
+            "name" : "railcart2.png",
+            "uri" : "railcart2.png"
         }
     ],
     "accessors" : [
