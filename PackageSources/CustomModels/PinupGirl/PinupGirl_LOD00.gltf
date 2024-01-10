@@ -25,11 +25,11 @@
         {
             "extensions" : {
                 "ASOBO_unique_id" : {
-                    "id" : "Cube"
+                    "id" : "pinupgirl"
                 }
             },
             "mesh" : 0,
-            "name" : "Cube",
+            "name" : "pinupgirl",
             "rotation" : [
                 0,
                 -0.7071068286895752,
@@ -90,8 +90,8 @@
     "images" : [
         {
             "mimeType" : "image/png",
-            "name" : "pinupgirl.png",
-            "uri" : "pinupgirl.png"
+            "name" : "pinupgirl2.png",
+            "uri" : "pinupgirl2.png"
         }
     ],
     "accessors" : [
@@ -165,7 +165,7 @@
     "buffers" : [
         {
             "byteLength" : 840,
-            "uri" : "PinupGirl_LOD00.bin"
+            "uri" : "pinupgirl_LOD00.bin"
         }
     ]
 }

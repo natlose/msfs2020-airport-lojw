@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="1.1.0">
+<AssetPackage Version="2.0.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>LOJW Wucher Helicopter</Title>
@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\natlose-airport-lojw-wucher-zurs\ContentInfo\</AssetDir>
+			<AssetDir>PackageDefinitions\natlose-airport-lojw-wucher-zurs\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\natlose-airport-lojw-wucher-zurs\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="CustomModels">
