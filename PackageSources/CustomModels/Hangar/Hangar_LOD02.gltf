@@ -1,0 +1,1208 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Khronos glTF Blender I/O v3.3.36 and Asobo Studio MSFS Blender I/O v1.3.2",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention",
+        "ASOBO_unique_id",
+        "ASOBO_macro_light"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "office_windows.001"
+                }
+            },
+            "mesh" : 0,
+            "name" : "office_windows.001",
+            "rotation" : [
+                0,
+                0,
+                -1,
+                7.549790126404332e-08
+            ],
+            "translation" : [
+                5.099998950958252,
+                3.1500000953674316,
+                -25.700000762939453
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "roof.001"
+                }
+            },
+            "mesh" : 1,
+            "name" : "roof.001",
+            "translation" : [
+                0.20000000298023224,
+                5.199999809265137,
+                -2.4000000953674316
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "sectional_door.001"
+                }
+            },
+            "mesh" : 2,
+            "name" : "sectional_door.001",
+            "rotation" : [
+                0,
+                0,
+                -0.7071067094802856,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0.1999998688697815,
+                4.466391086578369,
+                -1.571640133857727
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "walls.001"
+                }
+            },
+            "mesh" : 3,
+            "name" : "walls.001"
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Point"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0
+                    ],
+                    "intensity" : 1,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Point",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                14.177217483520508,
+                5.738959312438965,
+                -0.7267228364944458
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Point.001"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0
+                    ],
+                    "intensity" : 1,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Point.001",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                13.715831756591797,
+                5.738959312438965,
+                -0.7267228364944458
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Point.002"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0
+                    ],
+                    "intensity" : 1,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Point.002",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                0.31744384765625,
+                5.738959312438965,
+                0.22284698486328125
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Point.003"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0
+                    ],
+                    "intensity" : 1,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Point.003",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                -0.14394187927246094,
+                5.738959312438965,
+                0.2228471040725708
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Point.004"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0
+                    ],
+                    "intensity" : 1,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Point.004",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                0.3456268310546875,
+                5.738959312438965,
+                -27.221603393554688
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Point.005"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0
+                    ],
+                    "intensity" : 1,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Point.005",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                -0.11575889587402344,
+                5.738959312438965,
+                -27.221603393554688
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Point.006"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0
+                    ],
+                    "intensity" : 1,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Point.006",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                14.236130714416504,
+                5.738959312438965,
+                -27.271169662475586
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Point.007"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0,
+                        0
+                    ],
+                    "intensity" : 1,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Point.007",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                13.774744987487793,
+                5.738959312438965,
+                -27.271169662475586
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Spot.003"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.9646856188774109,
+                        0.25818315148353577
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 90.00000250447816,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Spot.003",
+            "rotation" : [
+                -0.6682030558586121,
+                -0.23131075501441956,
+                -0.23131075501441956,
+                -0.6682030558586121
+            ],
+            "translation" : [
+                14.306143760681152,
+                5.226973056793213,
+                -14.449056625366211
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Spot.004"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.9646856188774109,
+                        0.25818315148353577
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 90.00000250447816,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Spot.004",
+            "rotation" : [
+                -0.5369192957878113,
+                0,
+                0,
+                -0.8436336517333984
+            ],
+            "translation" : [
+                10.140390396118164,
+                5.226973056793213,
+                -0.6503729820251465
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Spot.005"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.9646856188774109,
+                        0.25818315148353577
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 90.00000250447816,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Spot.005",
+            "rotation" : [
+                -0.5341227650642395,
+                0,
+                0,
+                -0.8454068899154663
+            ],
+            "translation" : [
+                3.9691405296325684,
+                5.226973056793213,
+                -0.6503729820251465
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "hangar_light.001"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9806956648826599,
+                        1,
+                        0.6937770247459412
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "hangar_light.001",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                6.924971103668213,
+                4.845796585083008,
+                -8.654104232788086
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "office_light.001"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        0.9371925592422485,
+                        1,
+                        0.4588547348976135
+                    ],
+                    "intensity" : 5,
+                    "cone_angle" : 360,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "office_light.001",
+            "rotation" : [
+                -0.7071067690849304,
+                0,
+                0,
+                -0.70710688829422
+            ],
+            "translation" : [
+                8.400785446166992,
+                4.253358364105225,
+                -26.406558990478516
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "roof.002"
+                }
+            },
+            "mesh" : 4,
+            "name" : "roof.002",
+            "translation" : [
+                0.20000000298023224,
+                5.199999809265137,
+                -2.4000000953674316
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "walls.002"
+                }
+            },
+            "mesh" : 5,
+            "name" : "walls.002"
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Spot.006"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.9646856188774109,
+                        0.25818315148353577
+                    ],
+                    "intensity" : 10,
+                    "cone_angle" : 90.00000250447816,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Spot.006",
+            "rotation" : [
+                -0.6682030558586121,
+                -0.23131075501441956,
+                -0.23131075501441956,
+                -0.6682030558586121
+            ],
+            "translation" : [
+                14.306143760681152,
+                5.226973056793213,
+                -14.449056625366211
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Spot.007"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.9646856188774109,
+                        0.25818315148353577
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 90.00000250447816,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Spot.007",
+            "rotation" : [
+                -0.5341227650642395,
+                0,
+                0,
+                -0.8454068899154663
+            ],
+            "translation" : [
+                3.9691405296325684,
+                5.226973056793213,
+                -0.6503729820251465
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_unique_id" : {
+                    "id" : "Spot.008"
+                },
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.9646856188774109,
+                        0.25818315148353577
+                    ],
+                    "intensity" : 50,
+                    "cone_angle" : 90.00000250447816,
+                    "has_symmetry" : true,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "name" : "Spot.008",
+            "rotation" : [
+                -0.5369192957878113,
+                0,
+                0,
+                -0.8436336517333984
+            ],
+            "translation" : [
+                10.140390396118164,
+                5.226973056793213,
+                -0.6503729820251465
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {},
+            "name" : "lojw_windows",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                }
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {},
+            "name" : "lojw_roof",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.15231576561927795,
+                    0.006052396260201931,
+                    0.018997011706233025,
+                    1
+                ]
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {},
+            "name" : "lojw_sectional_door",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.3089769184589386,
+                    0.3269299864768982,
+                    0.3843710124492645,
+                    1
+                ],
+                "baseColorTexture" : {
+                    "index" : 1
+                }
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {},
+            "name" : "lojw_concrete",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.5925793051719666,
+                    0.5925793051719666,
+                    0.5925793051719666,
+                    1
+                ]
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.016",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cube.017",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Cube.018",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TEXCOORD_0" : 14
+                    },
+                    "indices" : 15,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cube.015",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 16,
+                        "NORMAL" : 17,
+                        "TEXCOORD_0" : 18
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Cube.019",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 19,
+                        "NORMAL" : 20,
+                        "TEXCOORD_0" : 21
+                    },
+                    "indices" : 22,
+                    "material" : 3
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "lojw_office_window.png",
+            "uri" : "lojw_office_window.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "hangar_door.png",
+            "uri" : "hangar_door.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 24,
+            "max" : [
+                4.90000057220459,
+                1.649999976158142,
+                0.10000000149011612
+            ],
+            "min" : [
+                -4.900000095367432,
+                -1.649999976158142,
+                -0.09999999403953552
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 36,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 34,
+            "max" : [
+                13.600000381469727,
+                0.29999998211860657,
+                0
+            ],
+            "min" : [
+                0,
+                0,
+                -24.399999618530273
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 34,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 34,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 60,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 64,
+            "max" : [
+                2.0989692211151123,
+                13.600000381469727,
+                0.30530163645744324
+            ],
+            "min" : [
+                -0.8774350881576538,
+                -1.775704845385917e-07,
+                -0.5501343607902527
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 64,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 64,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 108,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 386,
+            "max" : [
+                14,
+                5.5,
+                0
+            ],
+            "min" : [
+                0,
+                0,
+                -41.674957275390625
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 386,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5126,
+            "count" : 386,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5123,
+            "count" : 600,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 16,
+            "componentType" : 5126,
+            "count" : 34,
+            "max" : [
+                13.600000381469727,
+                0.29999998211860657,
+                1.3341524600982666
+            ],
+            "min" : [
+                0,
+                0,
+                -24.399999618530273
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 34,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 34,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5126,
+            "count" : 144,
+            "max" : [
+                14,
+                5.5,
+                0
+            ],
+            "min" : [
+                0,
+                0,
+                -41.674957275390625
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 20,
+            "componentType" : 5126,
+            "count" : 144,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 21,
+            "componentType" : 5126,
+            "count" : 144,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 22,
+            "componentType" : 5123,
+            "count" : 222,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 288,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 576,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 768,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 408,
+            "byteOffset" : 840,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 408,
+            "byteOffset" : 1248,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 272,
+            "byteOffset" : 1656,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 120,
+            "byteOffset" : 1928,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 768,
+            "byteOffset" : 2048,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 768,
+            "byteOffset" : 2816,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 512,
+            "byteOffset" : 3584,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 216,
+            "byteOffset" : 4096,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4632,
+            "byteOffset" : 4312,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4632,
+            "byteOffset" : 8944,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3088,
+            "byteOffset" : 13576,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1200,
+            "byteOffset" : 16664,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 408,
+            "byteOffset" : 17864,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 408,
+            "byteOffset" : 18272,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 272,
+            "byteOffset" : 18680,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1728,
+            "byteOffset" : 18952,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1728,
+            "byteOffset" : 20680,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1152,
+            "byteOffset" : 22408,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 444,
+            "byteOffset" : 23560,
+            "target" : 34963
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 24004,
+            "uri" : "Hangar_LOD02.bin"
+        }
+    ]
+}

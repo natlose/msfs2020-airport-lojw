@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{d627caba-95ae-4a1c-b065-f78b596d9b73}" version="1.1">
+	<LODS>
+		<LOD minSize="5" ModelFile="pinupgirl_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>
